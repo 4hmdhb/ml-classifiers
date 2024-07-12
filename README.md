@@ -122,4 +122,3 @@ Homework 3 consists of coding assignments and math problems covering concepts on
 
 ---
 
-Feel free to modify the content to better fit the specific details of your project and any additional instructions you want to include.
